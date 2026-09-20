@@ -1,0 +1,22 @@
+# EMPPAY Desktop TODO
+
+- [x] Create standalone Electron Windows application shell
+- [x] Add local JSON data persistence in the Electron user-data directory
+- [x] Add safe preload bridge for database, workbook, export, and backup operations
+- [x] Add Excel/CSV workbook import and common payroll-column mapping
+- [x] Add employee master with masked UAN and bank identifiers
+- [x] Add attendance, overtime, payroll rules, payroll calculation, payslips, reports, and backup screens
+- [x] Add Windows installer configuration with electron-builder
+- [x] Add Windows startup and build documentation
+- [x] Add local operator PIN/password login and role controls
+- [x] Add dynamic salary components & category benchmark structure catalog
+- [x] Add comprehensive attendance & leave module with CL/PL/SL/OL/LOP and payability engine
+- [x] Add Payment Mode support (Bank, Cash, Cheque) with Combine/Separate handling
+- [x] Add Loan Management module with automatic deduction and schedule logging
+- [x] Add Arrears Management module with retroactive and payment month handling
+- [x] Add Bonus Module with Payment of Bonus Act computations & statements
+- [x] Add effective-dated Payroll Rule Versioning & immutable finalized snapshots
+- [x] Add pre-finalization integrity validation checklist
+- [x] Add comprehensive Categorized Report Center (Payroll, Statutory, Payment, Additional)
+- [x] Add direct Excel (.xlsx) and CSV exports and print stylesheets
+- [x] Run automated test suites and verify 100% calculation compliance
